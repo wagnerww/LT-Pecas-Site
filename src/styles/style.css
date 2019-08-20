@@ -385,16 +385,16 @@ footer > section > div > img {
   height: 50px;
 }
 
-@media only screen and (min-width: 501px) {
+/*@media only screen and (min-width: 501px) {
   .slick-slide {
     width: 250px !important;
   }
-}
+}*/
 
 @media only screen and (min-width: 201px) and (max-width: 500px) {
-  .slick-slide {
+  /*.slick-slide {
     width: 100px !important;
-  }
+  }*/
 
   .container-header nav {
     width: 100%;

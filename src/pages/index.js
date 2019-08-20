@@ -263,11 +263,11 @@ export default function({ data }) {
           <div>
             <div>
               <h1>Localização</h1>
-              <p>Rua LT Peças, 999, Centro.</p>
+              <p>Rua Arnoldo Gassen, Alto do Parque, Número 82</p>
             </div>
             <div>
-              <p>Santo Cristo - RS</p>
-              <p>98960-000</p>
+              <p>Santa Rosa - RS</p>
+              <p>98900-000</p>
             </div>
           </div>
         </section>
