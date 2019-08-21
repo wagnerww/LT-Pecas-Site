@@ -288,7 +288,7 @@ export default function({ data }) {
           </div>
           <div>
             <div>
-              <p>Santo Cristo - RS</p>
+              <p>Santa Rosa - RS</p>
             </div>
             <div>
               <a href="tel:55 99909-6266">55 99909-6266</a>
