@@ -1,6 +1,6 @@
 const config = {
-  googleAnalyticsID: "",
-  siteUrl: "https://algumsite.netlify.com",
+  googleAnalyticsID: "UA-146139404-1",
+  siteUrl: "https://ltpecas.com",
 }
 
 module.exports = config
