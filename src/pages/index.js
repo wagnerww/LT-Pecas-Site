@@ -299,7 +299,7 @@ export default function({ data }) {
               </a>
             </div>
             <div className="redes-sociais">
-              <a target="_blank" href="faceook.com">
+              <a target="_blank" href="https://www.facebook.com/ltppecas/">
                 <img src={Facebook} alt="Facebook LT Peças" />
               </a>
               <a target="_blank" href="instagran.com">
